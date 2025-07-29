@@ -1,1 +1,1 @@
-please check the master directory.
+please check the master branch for codes
